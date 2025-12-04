@@ -12,3 +12,16 @@ What the board provides :- The STM32F746G-DISCO includes dual MEMS microphones (
 ST provides example audio capture projects for the Discovery family — use them to bootstrap SAI + WM8994 initialization. 
 Optional: record WAV to microSD
 Use FATFS (STM32Cube example) to write captured buffers into a WAV file for offline training / debugging. There are community examples that record WAV from the F746.
+link
+CMSIS DSP Website
+https://arm-software.github.io/CMSIS_6/latest/General/index.html
+GitHub Repositories 
+G4: https://github.com/STMicroelectronics...
+F4: https://github.com/STMicroelectronics...
+F7: https://github.com/STMicroelectronics...
+
+STM32G4 Reference Manual
+https://www.st.com/resource/en/refere...
+
+STM32G4 HAL API
+https://www.st.com/resource/en/user_m...
